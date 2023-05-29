@@ -1,3 +1,7 @@
 .idea
 _venv
 __pycache__
+
+/test/*
+/input/*
+/output/*
